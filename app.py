@@ -29,6 +29,5 @@ st.write("<p style='text-align: right;'> هناك تنوع في التخصصات
 
 st.write("    ")
 st.write("    ")
-st.write("<p style='text-align: right;'>وها قد أثبتنا أن هناك عروضًا وطلبًا لحديثي التخرج، وأن هناك تنوعًا في الوظائف المعروضة. لذا، كونوا مطمئنين، طالما أنكم تعملون بجد، فستجدون الوظيفة المناسبة.</p>", unsafe_allow_html=True)
-st.write("<p style='text-align: right;'>  </p>", unsafe_allow_html=True)
+st.write("<p style='text-align: right;'> ها قد أثبتنا أن هناك عروضًا وطلبًا لحديثي التخرج، وأن هناك تنوعًا في الوظائف المعروضة. لذا، كن مطمئنًا، طالما أنك تعمل بجد، فستجد الوظيفة المناسبة. </p>", unsafe_allow_html=True)
 
